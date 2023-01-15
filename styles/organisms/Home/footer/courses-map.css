@@ -1,0 +1,42 @@
+.courses-map-list__link {
+	color: #FFF;
+	margin-top: 10px;
+	text-decoration: none;
+}
+
+.courses-map-list__link {
+	font-size: .9em;
+}
+
+.subtitle-h3 {
+    font-size: 1.3em;
+	font-weight: 700;
+	margin: .9em 0;
+	padding-bottom: .2em;
+	padding-left: .3em;
+	padding-top: .2em;
+}
+
+.subtitle-h3 + .courses-map-list__link {
+	margin-top: 0;
+}
+
+.db { 
+	border-left: 4px solid #EC6E5A; 
+	color: #EC6E5A; 
+}
+
+.frameworks { 
+	border-left: 4px solid #AD85BF; 
+	color: #AD85BF; 
+}
+
+.frontend { 
+	border-left: 4px solid #5EC6F3; 
+	color: #5EC6F3; 
+}
+
+.backend { 
+	border-left: 4px solid #25D285; 
+	color: #25D285; 
+}

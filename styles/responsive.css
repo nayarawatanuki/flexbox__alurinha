@@ -1,0 +1,74 @@
+@media(min-width: 769px) {
+
+	.container {
+		width: 85%;	
+	}
+
+	.subtitle {
+		text-align: left;
+	}
+
+	.menu__link {
+		border-radius: 5px;
+		border: 1px solid #9799A6;
+	}
+
+	.menu__link:hover {
+		color: #FFF;
+		background-color: #9799A6;
+	}
+
+	.title {
+		margin: 0;
+	}
+
+	.header-nav {
+		width: auto;
+	}
+
+	.menu__link {
+		width: auto;
+		margin: 0 0 0 10px;
+	}
+
+	.form-contact {
+		margin-top: 0;
+		text-align: left;
+	}
+
+	.courses-list__link:nth-child(3n) {
+		margin-right: 0;
+	}
+
+	.courses-list__link:nth-child(3n+1) {
+		margin-left: 0;
+	}
+
+}
+
+@media(min-width: 1000px) {
+	.courses-list__link {
+		margin: 1.333%;
+	}
+
+	.courses-list__link:nth-child(3n) {
+		margin-right: 1.33%;
+	}
+
+	.courses-list__link:nth-child(3n+1) {
+		margin-left: 1.333%;
+	}
+
+	.courses-list__link:nth-child(4n) {
+		margin-right: 0;
+	}
+
+	.courses-list__link:nth-child(4n+1) {
+		margin-left: 0;
+	}
+
+	.video__about {
+		margin-left: 1.5em;
+	}
+
+}

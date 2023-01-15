@@ -1,0 +1,25 @@
+.header .container,
+.menu {
+    display: flex;
+}
+
+.header {
+	background-color: #FFF;
+	padding: 20px 0;
+}
+
+.header .container {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu__link {
+	background-color: #FFF;
+	border-bottom: 1px solid #9799A6;
+	color: #9799A6;
+	display: block;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-decoration: none;
+	transition: .5s;
+}

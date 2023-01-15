@@ -1,0 +1,41 @@
+.courses-list__link {
+	background-color: #FFF;
+	box-shadow: 2px 2px 2px #CCC;
+	height: 100px;
+	margin: 1%;
+	position: relative;
+	text-align: center;
+	transition: .3s;
+}
+
+.courses-list__link:hover {
+	box-shadow: 4px 4px 4px #CCC;
+}
+
+.courses-list__link:nth-child(even) a:before {
+	background: url(../../../img/background1.svg) no-repeat;	
+}
+
+.courses-list__link:nth-child(odd) a:before {
+	background: url(../../../img/background2.svg) no-repeat;
+}
+
+.courses-list__link a:before {
+	content: '';
+	display: block;
+	height: 50px;
+	margin: 10px auto;
+	width: 50px;
+}
+
+.courses-list__link a {
+    color: #000;
+	display: block;
+	font-weight: bold;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	text-decoration: none;
+	top: 0;
+	width: 100%;
+}
