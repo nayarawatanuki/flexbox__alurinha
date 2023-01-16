@@ -13,11 +13,11 @@
 }
 
 .courses-list__link:nth-child(even) a:before {
-	background: url(../../../img/background1.svg) no-repeat;	
+	background: url(../../../../img/background1.svg) no-repeat;	
 }
 
 .courses-list__link:nth-child(odd) a:before {
-	background: url(../../../img/background2.svg) no-repeat;
+	background: url(../../../../img/background2.svg) no-repeat;
 }
 
 .courses-list__link a:before {
@@ -38,4 +38,23 @@
 	text-decoration: none;
 	top: 0;
 	width: 100%;
+}
+
+/* Flexbox */
+.courses-list {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.courses-list__link {
+	margin: 1%;
+	width: 23%;
+}
+
+.courses-list__link:nth-child(4n) {
+	margin-right: 0;
+}
+
+.courses-list__link:nth-child(4n+1) {
+	margin-left: 0;
 }

@@ -1,0 +1,16 @@
+/* mobile */
+@media (max-width: 768px) {
+    .header .container, 
+    .menu {
+        flex-direction: column;
+    }
+
+    .header .container {
+        align-items: initial;
+        text-align: center;
+    }
+
+    .app {
+        order: -1;
+    }
+}

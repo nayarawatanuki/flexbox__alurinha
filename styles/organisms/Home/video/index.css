@@ -32,3 +32,24 @@
 	height: 50px;
 	outline: none;
 }
+
+/* Flexbox */
+.video .container,
+.video__about {
+	display: flex;
+}
+
+.video__content,
+.video__about,
+.about-video__list {
+	flex-grow: 1;
+}
+
+.video__about {
+	flex-direction: column;
+	text-align: center;
+}
+
+.video__content {
+	flex-shrink: 2;
+}

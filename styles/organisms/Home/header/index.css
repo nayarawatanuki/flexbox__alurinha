@@ -1,16 +1,6 @@
-.header .container,
-.menu {
-    display: flex;
-}
-
 .header {
 	background-color: #FFF;
 	padding: 20px 0;
-}
-
-.header .container {
-    align-items: center;
-    justify-content: space-between;
 }
 
 .menu__link {
@@ -22,4 +12,16 @@
 	padding: 10px;
 	text-decoration: none;
 	transition: .5s;
+}
+
+
+/* Flexbox */
+.header .container,
+.menu {
+    display: flex;
+}
+
+.header .container {
+    align-items: center;
+    justify-content: space-between;
 }

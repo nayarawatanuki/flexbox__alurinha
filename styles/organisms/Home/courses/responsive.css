@@ -1,0 +1,10 @@
+/* mobile */
+@media (max-width: 768px) {
+    .courses-list {
+        flex-direction: column;
+    }
+
+    .courses-list__link {
+        width: 100%;
+    }
+}

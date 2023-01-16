@@ -40,3 +40,14 @@
 	border-left: 4px solid #25D285; 
 	color: #25D285; 
 }
+
+/* Flexbox */
+.courses-map__list {
+	display: flex;
+	
+	/* flex-direction: column;
+	flex-wrap: wrap; */
+	flex-flow: column wrap;
+
+	height: 260px;
+}

@@ -1,0 +1,25 @@
+/* mobile */
+@media (max-width: 768px) {
+    
+    .courses-map__list {
+        height: auto;
+    }
+
+    .sponsors .container {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .sponsors__list {
+        margin: 0;
+    }
+
+    .sponsors__list,
+    .form-contact {
+        width: 100%;
+    }
+
+    .input-fieldset {
+        justify-content: center;
+    }
+}

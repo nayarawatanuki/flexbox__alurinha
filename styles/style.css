@@ -1,14 +1,12 @@
-@import 'organisms/Home/header.css';
-@import 'organisms/Home/courses.css';
-@import 'organisms/Home/video.css';
+@import 'organisms/Home/header/index.css';
+@import 'organisms/Home/courses/index.css';
+@import 'organisms/Home/video/index.css';
 @import 'organisms/Home/footer/index.css';
 
 body {
 	background-color: #F2F5F7;
 	font-family: 'Open Sans',Arial,sans-serif;
 }
-
-
 
 .container {
 	margin: 0 auto;

@@ -53,3 +53,26 @@
 .form-contact__legend {
 	margin-bottom: 10px;
 }
+
+/* Flexbox */
+.sponsors .container,
+.sponsors__list,
+.input-fieldset {
+	display: flex;
+}
+
+
+.sponsors .container {
+	justify-content: space-between;
+}
+
+.sponsors__list {
+	align-items: center;
+	justify-content: space-around;
+	margin-right: 5%;
+	width: 75%;
+}
+
+.form-contact {
+	width: 25%;;
+}

@@ -1,3 +1,8 @@
+@import 'organisms/Home/header/responsive.css';
+@import 'organisms/Home/courses/responsive.css';
+@import 'organisms/Home/video/responsive.css';
+@import 'organisms/Home/footer/responsive.css';
+
 @media(min-width: 769px) {
 
 	.container {

@@ -1,0 +1,11 @@
+/* mobile */
+@media (max-width: 768px) {
+
+    .video .container {
+        flex-direction: column;
+    }
+
+    .video__content {
+        margin: 0 auto;
+    }
+}
