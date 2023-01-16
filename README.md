@@ -27,7 +27,8 @@ O projeto **[Alurinha](https://nayarawatanuki.github.io/flexbox__alurinha/)**, �
 </br>
 
 ## :hammer: Funcionalidades e Demonstração da Aplicação
-A construção/estrutura da página foi pensada e focada mais na parte de `styles.css`, logo o projeto já foi iniciado com o `HTML` pronto. 
+A construção/estrutura da página foi pensada e focada mais na parte de `styles.css`, mais especificamente na configuração de `Flexbox`, logo o projeto já foi iniciado com o `HTML` pronto. 
+Com decorrer do projeto, foi adaptado para telas para mobile também. 
 
 </br>
 </br>
