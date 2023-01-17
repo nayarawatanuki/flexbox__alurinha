@@ -44,9 +44,9 @@ Foi aprendido e utilizado:
       - `row`
     - `justify-content`
     - `flex-wrap` </br>
-      quebra de linha ou coluna
+      quebra de linha ou coluna ou não quebra
       
-    - `flex-flow` 
+    - `flex-flow` (flex-direction, flex-wrap)
     - `align-items` 
     - `align-content`
  
@@ -56,10 +56,10 @@ Foi aprendido e utilizado:
       distribuição de espaçamento 
       
     - `flex-shrink` </br>
-      distribuição de tamanhos para os elementos de acordo com o espaço
+      diminui o tamanho dos elementos de acordo com o espaço de tela
       
-    - flex-basis
-    - flex
+    - `flex-basis` (equivalente a width do elemento)
+    - `flex` (flex-grow, flex-shrink, flex-basis)
     - align-self
 
 </br>
