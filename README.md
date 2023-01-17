@@ -53,7 +53,7 @@ Foi aprendido e utilizado:
   - flex item: 
     - order 
     - `flex-grow` </br>
-      distribuição de espaçamento 
+      distribuição de espaçamento (preenche todo o espaço do container)
       
     - `flex-shrink` </br>
       diminui o tamanho dos elementos de acordo com o espaço de tela
