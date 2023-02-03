@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Alurinha" src="https://raw.githubusercontent.com/nayarawatanuki/flexbox__alurinha/main/img/readme/Alurinha__cover.png"/>
+  <img alt="Alurinha" src="https://raw.githubusercontent.com/nayarawatanuki/flexbox__alurinha/main/img/readme/Alurinha__cover.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Alurinha](https://nayarawatanuki.github.io/flexbox__alurinha/)**, é uma proposta de página web para cursos online.
 
-</br>Desenvolvido para o curso de **FLEXBOX: POSICIONE ELEMENTOS NA TELA** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **FLEXBOX: POSICIONE ELEMENTOS NA TELA** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
